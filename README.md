@@ -1,3 +1,7 @@
+<div align="center">
+
+<a href="https://github.com/effjy/opsec-linux/"><img src="titles/opsec-linux-title.svg" height="52" alt="OpSec Linux"></a>
+
 # 🛡️ OpSec Hardening Guide
 
 > A complete, paranoid-grade guide to hardening a Linux computer or server. Extensive examples, real commands, defense-in-depth.
@@ -9,6 +13,8 @@
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?logo=github)
+
+</div>
 
 ---
 

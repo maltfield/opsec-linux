@@ -744,7 +744,7 @@ sudo usbguard list-devices
 # Disable Thunderbolt/Firewire DMA (see module blacklist in §6).
 ```
 
-> 🧠 **Paranoid extra:** epoxy/tamper-evident seals on ports & screws, **[BusKill](https://www.buskill.in)** (USB dead-man's-switch that locks/wipes on cable pull), and a detached LUKS header on a key you carry. For laptops, enable a power-on password + TPM PIN.
+> 🧠 **Paranoid extra:** epoxy/tamper-evident seals on ports & screws, **[BusKill](https://www.buskill.in)** (USB dead-man's-switch that locks/[wipes on cable pull](https://www.buskill.in/luks-self-destruct/)), and a detached LUKS header on a key you carry. For laptops, enable a power-on password + TPM PIN.
 
 ## 13. 🕵️ Privacy & Anti-Forensics
 
